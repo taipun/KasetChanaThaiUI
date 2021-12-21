@@ -1,0 +1,4 @@
+#Mon Dec 13 11:34:18 ICT 2021
+base.0=C\:\\Users\\taipu\\Documents\\GitHub\\KasetChana\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
